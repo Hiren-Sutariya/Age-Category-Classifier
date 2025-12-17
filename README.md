@@ -5,7 +5,6 @@ into different categories such as Child, Teenager, Adult, or Senior using
 if-else conditions.
 
 ## 🚀 Features
-- Takes age as input
 - Uses simple if-else logic
 - Displays age category:
   - Child
