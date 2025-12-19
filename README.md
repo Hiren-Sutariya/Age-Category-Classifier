@@ -21,15 +21,6 @@ if-else conditions.
 - If age is less than 60 → Adult
 - Otherwise → Senior
 
-## ▶️ Example Code
-```python
-age = 18
-
-if age < 13:
-    print("You're a child")
-elif age < 20:
-    print("You're a Teenager")
-elif age < 60:
-    print("You're an Adult")
-else:
-    print("You're a Senior")
+## 👤 Author
+**Hiren Sutariya**  
+Python Developer 
